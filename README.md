@@ -1,4 +1,8 @@
-# Slint⚡️ Rust🦀 simple Desktop-App Income Calculator
+# Slint⚡️ Rust🦀 simple Income Calculator Desktop-App 
+
+![App Screenshot 1](img1.png)
+
+![App Screenshot 2](img2.png)
 
 A template for a Rust application that's using [Slint](https://slint.rs/) for the user interface.
 
@@ -45,4 +49,3 @@ To integrate your project with the Slint Rust Template, follow these steps:
 For more information on how to effectively use the Slint UI toolkit, refer to the [Slint documentation](https://slint.rs/).
 
 It is recommended to use an IDE for development, along with [LSP-based IDE integration for `.slint` files](https://github.com/slint-ui/slint/blob/master/tools/lsp/README.md).
-
